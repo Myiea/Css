@@ -1,0 +1,15 @@
+/* YOUR STYLE GOES IN HERE */
+img{
+    width: 200px;
+    border-radius: 50% ;
+    border: solid 6px #FBFFB1 ;
+    background-color: #FFACAC;
+}
+
+div{
+    width: 250px;
+    text-align: center;
+    border: 3px solid #FFBFA9;
+    border-radius: 10px;
+    padding:10px
+}
