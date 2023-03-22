@@ -1,2 +1,9 @@
 /* YOUR STYLE GOES IN HERE */
 
+.square:nth-child(even){
+    background-color: #eeeed2;
+}
+
+.square:nth-child(odd){
+    background-color: #769656;
+}
